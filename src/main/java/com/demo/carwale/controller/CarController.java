@@ -19,6 +19,7 @@ public class CarController {
         return "Hello World";
         //Todo : WhiteLable funcationality and customization
         //Todo : Get mapping vs Request Mapping
+        //Todo : Replace getmapping with requestMapping
     }
 
     @GetMapping("hello/{name}")
